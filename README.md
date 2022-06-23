@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-Shell Repository
+Shell Repository for ALX tasks.
